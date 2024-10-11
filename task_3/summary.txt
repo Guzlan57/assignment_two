@@ -1,0 +1,3 @@
+THe average tempurature is 24.000000 
+ the averate humidity is 72.500000 
+ the total percep is  50.000000
